@@ -3,6 +3,8 @@ Master-Password-Recovery-Tool
 
 ### Table of Content
 
+1. Introduction
+
 This software generates and calculates the Master Passwords of HDD and BIOS systems of ACER, Dell and Sony VAIO laptops according to their license numbers. The algorithm was figured out by multiple-testing and collecting data from different Internet sources. 
 
 Description
