@@ -26,4 +26,4 @@ This software generates and calculates the Master Passwords of HDD and BIOS syst
 
 
  
-This application is designed to recover the master password of ACER, Sony Vaio and Dell laptops according to their licence numbers. Licence numbers for each laptop is absolutely unique, and this program helps to figure out the corresponding master passwords of those laptops. The algorithm was decoded by multiple testing and collecting data from different internet sources. -- Rafayel Mkrtchyan, Junyu Wang, 5/3/2014.
+This application is designed to recover the master password of ACER, Sony Vaio and Dell laptops according to their licence numbers. Licence numbers for each laptop is absolutely unique, and this program helps to figure out the corresponding master passwords of those laptops. The algorithm was decoded by multiple testing and collecting data from different internet sources. -- Rafayel Mkrtchyan, 5/3/2014.
