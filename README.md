@@ -8,7 +8,9 @@ Master Password Recovery Tool
 
 ### Introduction
 
-Like any reasonably developed system, HDD and BIOS systems on laptops/notebooks need enormous protection. Systems that are using password generators in order to protect their security are using different algorithms. Algorithms can vary based on their difficulty level. Current generation laptops require good password generators in order to make their systems as safe as possible
+Like any reasonably developed system, HDD and BIOS systems on laptops/notebooks need enormous protection. Systems that are using password generators in order to protect their security are using different algorithms. Algorithms can vary based on their difficulty level. Current generation laptops require good password generators in order to make their systems as safe as possible.
+<img src="https://cloud.githubusercontent.com/assets/5885065/5726188/578acd5c-9b0e-11e4-870a-3ecc4bdbab3d.gif"
+ alt="algo Logo" title="algo" align="right" />
 
 This software generates and calculates the Master Passwords of HDD and BIOS systems of ACER, Dell and Sony VAIO laptops according to their license numbers. The algorithm was figured out by multiple-testing and collecting data from different Internet sources.
 
@@ -21,7 +23,6 @@ When a laptop is locked with password, a checksum of that password is stored in 
  Project 
 ----------
 
-<img src="https://cloud.githubusercontent.com/assets/5885065/5726188/578acd5c-9b0e-11e4-870a-3ecc4bdbab3d.gif"
- alt="algo Logo" title="algo" align="right" />
+
  
 This application is designed to recover the master password of ACER, Sony Vaio and Dell laptops according to their licence numbers. Licence numbers for each laptop is absolutely unique, and this program helps to figure out the corresponding master passwords of those laptops. The algorithm was decoded by multiple testing and collecting data from different internet sources. -- Rafayel Mkrtchyan, Junyu Wang, 5/3/2014.
