@@ -21,17 +21,6 @@ This software generates and calculates the Master Passwords of HDD and BIOS syst
 
 
 
-
-
-
-
-
-
-### Description
-
-
-
-
  Project 
 ----------
 
