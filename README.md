@@ -3,7 +3,7 @@ Master Password Recovery Tool
 
 ### Table of Content
 
-1. Introduction
+1. Description of the Software
 
 
 ### Introduction
