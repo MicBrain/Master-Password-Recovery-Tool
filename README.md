@@ -15,7 +15,7 @@ Majority of all laptops are using master passwords (which are unique in each lap
 
 When a laptop is locked with password, a checksum of that password is stored in FlashROM - this is a chip on the mainboard of the device which also contains the BIOS code and other settings, e.g. memory timings. For most brands, this checksum is displayed after entering an invalid password for the third time. The dramatic 'System Disabled' message is just scare tactics: when you remove all power from the laptop and reboot it, it will work just as before. From such a checksum (also called "hash"), valid passwords can be found by means of brute-forcing. The bypass mechanisms of other vendors work by showing a number to the user from which a master password can be derived. This password is usually a sequence of numbers generated randomly. 
 
-This software generates and calculates the Master Passwords of HDD and BIOS systems of ACER, Dell and Sony VAIO laptops according to their license numbers. The program takes the license numbers of those laptops(which are also unique for every laptop) as an input and gives themaster codes of HDD and BIOS as an output. The algorithm was figured out by multiple testing and collecting data from different Internet sources.
+This software generates and calculates the Master Passwords of HDD and BIOS systems of ACER, Dell and Sony VAIO laptops according to their license numbers. The program takes the license numbers of those laptops(which are unique for every laptop) as an input and gives themaster codes of HDD and BIOS as an output. The algorithm was figured out by multiple testing and collecting data from different Internet sources.
 
 
 
