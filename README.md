@@ -4,7 +4,7 @@ Master Password Recovery Tool
 ### Table of Content
 
 1. Description of the Software
-2. Research Project
+2. Ongoing Research Project
 
 
 ### Description of the Software
