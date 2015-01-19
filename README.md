@@ -21,7 +21,7 @@ This software generates and calculates the Master Passwords of HDD and BIOS syst
 
 ### Ongoing Research Project
 
-This software has been written by [Rafayel Mkrtchyan][web1]. To try the beta version of the application you can download Password Recovert Tool 1.0.exe file from this repo. I started researching the mechanics of BIOS and HDD password in current generation laptops in 2012. My goal was to create a set of master password generators to disable Basic Input /Output System (BIOS) passwords. After understanging the general algorithm for generating Master Passwords I tried to test them from collected data from different Internet sources.
+This software has been written by [Rafayel Mkrtchyan][web1]. To try the beta version of the application you can download ""Password Recovert Tool 1.0.exe file"" from this repo. I started researching the mechanics of BIOS and HDD password in current generation laptops in 2012. My goal was to create a set of master password generators to disable Basic Input /Output System (BIOS) passwords. After understanging the general algorithm for generating Master Passwords I tried to test them from collected data from different Internet sources.
 
 This application is designed to recover the master password of ACER, Sony Vaio and Dell laptops according to their licence numbers. Licence numbers for each laptop is absolutely unique, and this program helps to figure out the corresponding master passwords of those laptops. The algorithm was decoded by multiple testing and collecting data from different internet sources. -- Rafayel Mkrtchyan, 5/3/2014.
 
