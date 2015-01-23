@@ -8,7 +8,7 @@ Master Password Recovery Tool
 3. References
  
 
-### Description of the Software
+### Description of the Software 
 
 Like any reasonably developed system, HDD and BIOS systems on laptops/notebooks need enormous protection. Systems that are using password generators in order to protect their security are using different algorithms. Algorithms can vary based on their difficulty level. Current generation laptops require good password generators in order to make their systems as safe as possible.
 <img src="https://cloud.githubusercontent.com/assets/5885065/5726188/578acd5c-9b0e-11e4-870a-3ecc4bdbab3d.gif"
