@@ -28,7 +28,6 @@ You are welcome to contribute to this research project. Here's some examples of 
 * Bugfixes,
 * Inefficient blocks of code.
 
-
 ### References
 
 [web1]: https://www.linkedin.com/in/rafayelmkrtchyan
