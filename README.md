@@ -25,7 +25,8 @@ This software has been written by [Rafayel Mkrtchyan][web1]. To try the beta ver
 
 You are welcome to contribute to this research project. Here's some examples of things you might want to make a pull request for:
 * New fixes,
-* 
+* New tests,
+* Bugfixes,
 
 
 ### References
