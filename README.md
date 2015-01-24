@@ -27,6 +27,7 @@ You are welcome to contribute to this research project. Here's some examples of 
 * New fixes,
 * New tests,
 * Bugfixes,
+* Inefficient blocks of code.
 
 
 ### References
