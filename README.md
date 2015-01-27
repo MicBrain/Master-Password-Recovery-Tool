@@ -38,7 +38,7 @@ You are welcome to contribute to this research project. Look at existing code to
 [web1]: https://www.linkedin.com/in/rafayelmkrtchyan
 
 [techdocs-image]: https://cloud.githubusercontent.com/assets/5885065/5914280/9c246678-a5a7-11e4-86af-28f5141aaf8d.png
-[setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
+[setup-image]: https://cloud.githubusercontent.com/assets/5885065/5914284/ace3ef38-a5a7-11e4-88ab-04e6fb2e9be5.png
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
 [techdocs]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
