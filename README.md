@@ -43,5 +43,5 @@ You are welcome to contribute to this research project. Look at existing code to
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
 [techdocs]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
 [setup]: https://github.com/snowplow/snowplow/wiki/Setting-up-SnowPlow
-[roadmap]: https://github.com/snowplow/snowplow/wiki/Product-roadmap
+[roadmap]: https://github.com/MicBrain/Master-Password-Recovery-Tool/blob/master/README.md
 [contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
