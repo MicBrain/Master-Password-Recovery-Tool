@@ -44,4 +44,4 @@ You are welcome to contribute to this research project. Look at existing code to
 [techdocs]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
 [setup]: http://www.pwcrack.com/bios.shtml
 [roadmap]: https://github.com/MicBrain/Master-Password-Recovery-Tool/blob/master/README.md
-[contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
+[contributing]: rafamian@berkeley.edu
