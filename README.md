@@ -22,7 +22,7 @@ This software generates and calculates the Master Passwords of HDD and BIOS syst
 
 This software has been written by [Rafayel Mkrtchyan][web1]. To try the beta version of the application you can download **Password Recovert Tool 1.0.exe** file from this repo. To read about the algorithms that different companies used for protecting their Master Passwords download **Description.pdf** file. I started researching the mechanics of BIOS and HDD password in current generation laptops in 2012. My goal was to create a set of master password generators to disable Basic Input /Output System (BIOS) passwords. After understanging the general algorithm for generating Master Passwords I tried to test them from collected data from different Internet sources.
 
-| **[Technical Doc] [techdocs]**     | **[Tech Support] [setup]**     | **[Project Readme] [roadmap]**           | **[Contributing] [contributing]**           |
+| **[Technical Doc] [web2]**     | **[Tech Support] [setup]**     | **[Project Readme] [roadmap]**           | **[Contributing] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
 | [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] |
 
@@ -36,12 +36,11 @@ You are welcome to contribute to this research project. Look at existing code to
 ### References
 
 [web1]: https://www.linkedin.com/in/rafayelmkrtchyan
-
-[techdocs-image]: https://cloud.githubusercontent.com/assets/5885065/5914280/9c246678-a5a7-11e4-86af-28f5141aaf8d.png
+[web2]: https://cloud.githubusercontent.com/assets/5885065/5914280/9c246678-a5a7-11e4-86af-28f5141aaf8d.png
 [setup-image]: https://cloud.githubusercontent.com/assets/5885065/5914284/ace3ef38-a5a7-11e4-88ab-04e6fb2e9be5.png
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://cloud.githubusercontent.com/assets/5885065/5914295/daaf6276-a5a7-11e4-9423-8369a32951ba.png
 [techdocs]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
 [setup]: http://www.pwcrack.com/bios.shtml
 [roadmap]: https://github.com/MicBrain/Master-Password-Recovery-Tool/blob/master/README.md
-[contributing]: https://www.linkedin.com/in/rafayelmkrtchyan
+[contributing]: rafamian@berkeley.edu
