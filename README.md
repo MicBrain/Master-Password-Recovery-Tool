@@ -32,7 +32,6 @@ You are welcome to contribute to this research project. Look at existing code to
 * Bugfixes,
 * Inefficient blocks of code.
    
-
 ### References
 
 [web1]: https://www.linkedin.com/in/rafayelmkrtchyan
