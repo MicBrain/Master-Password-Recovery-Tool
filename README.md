@@ -22,9 +22,9 @@ This software generates and calculates the Master Passwords of HDD and BIOS syst
 
 This software has been written by [Rafayel Mkrtchyan][web1]. To try the beta version of the application you can download **Password Recovert Tool 1.0.exe** file from this repo. To read about the algorithms that different companies used for protecting their Master Passwords download **Description.pdf** file. I started researching the mechanics of BIOS and HDD password in current generation laptops in 2012. My goal was to create a set of master password generators to disable Basic Input /Output System (BIOS) passwords. After understanging the general algorithm for generating Master Passwords I tried to test them from collected data from different Internet sources.
 
-| **[Technical Doc] [web6]**     | **[Tech Support] [setup]**     | **[Project Readme] [roadmap]**           | **[Contributing] [contributing]**           |
+| **[Technical Doc] [web6]**     | **[Tech Support] [web7]**     | **[Project Readme] [roadmap]**           | **[Contributing] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
-| [![i1] [web2]] [web6] | [![i2] [web3]] [setup] | [![i3] [web4]] [roadmap] | [![i4] [web5]] [contributing] |
+| [![i1] [web2]] [web6] | [![i2] [web3]] [web7] | [![i3] [web4]] [roadmap] | [![i4] [web5]] [contributing] |
 
 You are welcome to contribute to this research project. Look at existing code to get a good feel for the patterns we use. Please do create a new issue on GitHub if you think you've found a bug though! If you have a more deeply-rooted problem with how the program is built or some of the stylistic decisions made in the code, it's best to create an issue before putting the effort into a pull request. The same goes for new features - it might be best to check the project's direction, existing pull requests, and currently open and closed issues first. Here's some examples of things you might want to make a pull request for:
 * New fixes,
@@ -40,6 +40,6 @@ You are welcome to contribute to this research project. Look at existing code to
 [web4]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [web5]: https://cloud.githubusercontent.com/assets/5885065/5914295/daaf6276-a5a7-11e4-9423-8369a32951ba.png
 [web6]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
-[setup]: http://www.pwcrack.com/bios.shtml
+[web7]: http://www.pwcrack.com/bios.shtml
 [roadmap]: https://github.com/MicBrain/Master-Password-Recovery-Tool/blob/master/README.md
 [contributing]: rafamian@berkeley.edu
