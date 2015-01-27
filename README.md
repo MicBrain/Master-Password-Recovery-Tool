@@ -24,7 +24,7 @@ This software has been written by [Rafayel Mkrtchyan][web1]. To try the beta ver
 
 | **[Technical Doc] [web6]**     | **[Tech Support] [setup]**     | **[Project Readme] [roadmap]**           | **[Contributing] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
-| [![i1] [web2]] [web6] | [![i2] [web3]] [setup] | [![i3] [web4]] [roadmap] | [![i4] [contributing-image]] [contributing] |
+| [![i1] [web2]] [web6] | [![i2] [web3]] [setup] | [![i3] [web4]] [roadmap] | [![i4] [web5]] [contributing] |
 
 You are welcome to contribute to this research project. Look at existing code to get a good feel for the patterns we use. Please do create a new issue on GitHub if you think you've found a bug though! If you have a more deeply-rooted problem with how the program is built or some of the stylistic decisions made in the code, it's best to create an issue before putting the effort into a pull request. The same goes for new features - it might be best to check the project's direction, existing pull requests, and currently open and closed issues first. Here's some examples of things you might want to make a pull request for:
 * New fixes,
@@ -38,7 +38,7 @@ You are welcome to contribute to this research project. Look at existing code to
 [web2]: https://cloud.githubusercontent.com/assets/5885065/5914280/9c246678-a5a7-11e4-86af-28f5141aaf8d.png
 [web3]: https://cloud.githubusercontent.com/assets/5885065/5914284/ace3ef38-a5a7-11e4-88ab-04e6fb2e9be5.png
 [web4]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
-[contributing-image]: https://cloud.githubusercontent.com/assets/5885065/5914295/daaf6276-a5a7-11e4-9423-8369a32951ba.png
+[web5]: https://cloud.githubusercontent.com/assets/5885065/5914295/daaf6276-a5a7-11e4-9423-8369a32951ba.png
 [web6]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
 [setup]: http://www.pwcrack.com/bios.shtml
 [roadmap]: https://github.com/MicBrain/Master-Password-Recovery-Tool/blob/master/README.md
