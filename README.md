@@ -41,7 +41,7 @@ You are welcome to contribute to this research project. Look at existing code to
 [setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
-[techdocs]: https://github.com/snowplow/snowplow/wiki/SnowPlow-technical-documentation
+[techdocs]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
 [setup]: https://github.com/snowplow/snowplow/wiki/Setting-up-SnowPlow
 [roadmap]: https://github.com/snowplow/snowplow/wiki/Product-roadmap
 [contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
