@@ -24,7 +24,7 @@ This software has been written by [Rafayel Mkrtchyan][web1]. To try the beta ver
 
 | **[Technical Doc] [techdocs]**     | **[Tech Support] [setup]**     | **[Project Readme] [roadmap]**           | **[Contributing] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
-| [![i1] [web2-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] |
+| [![i1] [web2]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] |
 
 You are welcome to contribute to this research project. Look at existing code to get a good feel for the patterns we use. Please do create a new issue on GitHub if you think you've found a bug though! If you have a more deeply-rooted problem with how the program is built or some of the stylistic decisions made in the code, it's best to create an issue before putting the effort into a pull request. The same goes for new features - it might be best to check the project's direction, existing pull requests, and currently open and closed issues first. Here's some examples of things you might want to make a pull request for:
 * New fixes,
