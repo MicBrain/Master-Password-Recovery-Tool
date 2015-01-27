@@ -42,6 +42,6 @@ You are welcome to contribute to this research project. Look at existing code to
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
 [techdocs]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
-[setup]: https://github.com/snowplow/snowplow/wiki/Setting-up-SnowPlow
+[setup]: http://www.pwcrack.com/bios.shtml
 [roadmap]: https://github.com/MicBrain/Master-Password-Recovery-Tool/blob/master/README.md
 [contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
