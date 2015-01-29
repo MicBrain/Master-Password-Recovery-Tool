@@ -5,7 +5,7 @@ Master Password Recovery Tool
 
 1. Description of the Software
 2. Ongoing Research Project
-3. Additional
+3. Additional Sources
  
 ### Description of the Software 
 
