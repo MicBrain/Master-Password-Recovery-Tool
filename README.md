@@ -35,7 +35,7 @@ You are welcome to contribute to this research project. Look at existing code to
 * Bugfixes,
 * Inefficient blocks of code.
    
-### Additional
+### Additional Sources
 
 [web1]: https://www.linkedin.com/in/rafayelmkrtchyan
 [web2]: https://cloud.githubusercontent.com/assets/5885065/5914280/9c246678-a5a7-11e4-86af-28f5141aaf8d.png
