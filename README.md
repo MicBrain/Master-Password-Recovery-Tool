@@ -37,7 +37,7 @@ You are welcome to contribute to this research project. Look at existing code to
    
 ### Additional Resources
 
-1. BIOS password AND LOCKED HARD DISK RECOVERY
+1. BIOS password and LOCKED HARD DISK RECOVERY
 2. Dogbert's blog - http://dogber1.blogspot.com/
 
 [web1]: https://www.linkedin.com/in/rafayelmkrtchyan
