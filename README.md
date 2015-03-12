@@ -39,7 +39,7 @@ You are welcome to contribute to this research project. Look at existing code to
 
 1. BIOS password and locked hard disk recovery - http://www.pwcrack.com/bios.shtml
 2. Dogbert's blog - http://dogber1.blogspot.com/
-3. How to remove, Clear, Reveal, Unlock or Reset BIOS Security Password
+3. How to remove, clear, Reveal, Unlock or Reset BIOS Security Password
 
 [web1]: https://www.linkedin.com/in/rafayelmkrtchyan
 [web2]: https://cloud.githubusercontent.com/assets/5885065/5914280/9c246678-a5a7-11e4-86af-28f5141aaf8d.png
