@@ -41,8 +41,6 @@ You are welcome to contribute to this research project. Look at existing code to
 2. Dogbert's blog - http://dogber1.blogspot.com/
 3. How To Remove, Clear, Reveal, Unlock or Reset BIOS Security Password
 
-Read More: https://www.raymond.cc/blog/how-to-reset-remove-clear-or-reveal-cmos-bios-security-password/
-
 [web1]: https://www.linkedin.com/in/rafayelmkrtchyan
 [web2]: https://cloud.githubusercontent.com/assets/5885065/5914280/9c246678-a5a7-11e4-86af-28f5141aaf8d.png
 [web3]: https://cloud.githubusercontent.com/assets/5885065/5914284/ace3ef38-a5a7-11e4-88ab-04e6fb2e9be5.png
