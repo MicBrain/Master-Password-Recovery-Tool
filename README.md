@@ -51,4 +51,3 @@ You are welcome to contribute to this research project. Look at existing code to
 [web8]: https://github.com/MicBrain/Master-Password-Recovery-Tool/blob/master/README.md
 [web9]: https://www.linkedin.com/in/rafayelmkrtchyan
 
-
