@@ -1,4 +1,4 @@
-           Master Password Recovery Tool 
+# Master Password Recovery Tool 
 =============================
 
 ### Table of Content
