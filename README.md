@@ -1,4 +1,4 @@
-<center> Master Password Recovery Tool </center>
+Master Password Recovery Tool </center>
 =============================
 
 ### Table of Content
