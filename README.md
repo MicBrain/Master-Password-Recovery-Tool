@@ -1,5 +1,4 @@
-# Master Password Recovery Tool
-=============================
+![alt tag](https://cloud.githubusercontent.com/assets/5885065/6885085/6d4c31fc-d5c5-11e4-8689-9d01abc698cf.png)
 
 ### Table of Content
 
