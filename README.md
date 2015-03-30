@@ -1,7 +1,10 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6885085/6d4c31fc-d5c5-11e4-8689-9d01abc698cf.png)
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6889577/e4ac1086-d64d-11e4-8844-f856a1e90693.png)
+
 1. Description of the Software
+2. Ongoing Research Project
+3. Additional Resources
 
  
 ### Description of the Software 
