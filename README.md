@@ -5,7 +5,6 @@
 1. Description of the Software
 2. Ongoing Research Project
 3. Additional Resources
-
  
 ### Description of the Software 
 
