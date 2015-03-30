@@ -1,7 +1,7 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6885085/6d4c31fc-d5c5-11e4-8689-9d01abc698cf.png)
 
 ### Table of Content
-![alt tag](https://cloud.githubusercontent.com/assets/5885065/6889529/b1ac3694-d64c-11e4-9aa4-540e1c23a4e6.png)
+![alt tag](https://cloud.githubusercontent.com/assets/5885065/6889539/02d7a468-d64d-11e4-9621-276c9690396f.png)
 
 1. Description of the Software
 2. Ongoing Research Project
