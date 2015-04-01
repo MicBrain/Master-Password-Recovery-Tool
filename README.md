@@ -5,8 +5,6 @@
 1. Software Description
 2. Ongoing Research Project
 3. Additional Resources
- 
-### Software Description
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6936536/27b08036-d808-11e4-9abe-45887f6af13d.png)
 
