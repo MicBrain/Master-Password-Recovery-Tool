@@ -2,7 +2,7 @@
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6891308/3c828c20-d66e-11e4-9681-cebab1c1b3b1.png)
 
-1. Description of the Software
+1. Software Description
 2. Ongoing Research Project
 3. Additional Resources
  
