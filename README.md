@@ -6,8 +6,6 @@
 2. Ongoing Research Project
 3. Additional Resources
 
-![alt tag](https://cloud.githubusercontent.com/assets/5885065/6936536/27b08036-d808-11e4-9abe-45887f6af13d.png)
-
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6977932/f0dc15ae-d97c-11e4-976b-ec145ae7158b.png)
 
 Like any reasonably developed system, HDD and BIOS systems on laptops/notebooks need enormous protection. Systems that are using password generators in order to protect their security are using different algorithms. Algorithms can vary based on their difficulty level. Current generation laptops require good password generators in order to make their systems as safe as possible.
