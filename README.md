@@ -34,7 +34,6 @@ You are welcome to contribute to this research project. Look at existing code to
 * Bugfixes,
 * Inefficient blocks of code.
    
-### Additional Resources
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6978091/425faeec-d980-11e4-8a07-7411171e0a16.png)
 
 1. BIOS password and locked hard disk recovery - http://www.pwcrack.com/bios.shtml
