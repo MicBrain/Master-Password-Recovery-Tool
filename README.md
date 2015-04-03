@@ -17,8 +17,6 @@ When a laptop is locked with password, a checksum of that password is stored in 
 
 This software generates and calculates the Master Passwords of HDD and BIOS systems of ACER, Dell and Sony VAIO laptops according to their license numbers. The program takes the license numbers of those laptops(which are unique for every laptop) as an input and gives themaster codes of HDD and BIOS as an output. The algorithm was figured out by multiple testing and collecting data from different Internet sources.
 
-### Ongoing Research Project
-
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6978048/79b60dba-d97f-11e4-9e56-decaf310ebb6.png)
 
 This software has been written by [Rafayel Mkrtchyan][web1]. To try the beta version of the application you can download **Password Recovert Tool 1.0.exe** file from this repo. To read about the algorithms that different companies used for protecting their Master Passwords download **Description.pdf** file. I started researching the mechanics of BIOS and HDD password in current generation laptops in 2012. My goal was to create a set of master password generators to disable Basic Input /Output System (BIOS) passwords. After understanging the general algorithm for generating Master Passwords I tried to test them from collected data from different Internet sources.
