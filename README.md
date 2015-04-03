@@ -1,6 +1,6 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/5885065/6885085/6d4c31fc-d5c5-11e4-8689-9d01abc698cf.png)
 
-![alt tag](https://cloud.githubusercontent.com/assets/5885065/6891308/3c828c20-d66e-11e4-9681-cebab1c1b3b1.png)
+![alt tag](https://cloud.githubusercontent.com/assets/5885065/6977958/7fd63abe-d97d-11e4-93ba-a7a5b5ce8439.png)
 
 1. Software Description
 2. Ongoing Research Project
